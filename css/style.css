@@ -98,3 +98,16 @@ resize:none;
 #booking .btn{
 text-align:center;
 }
+#experience .card{
+text-align:center;
+}
+
+#experience h1{
+font-size:28px;
+margin-bottom:20px;
+}
+
+#experience p{
+font-size:17px;
+line-height:1.7;
+}
