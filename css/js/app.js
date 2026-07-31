@@ -28,3 +28,4 @@ observer.observe(card);
 });
 
 });
+sendQuote()
