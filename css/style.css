@@ -281,3 +281,14 @@ display:block;
 margin-top:25px;
 text-align:center;
 }
+#map{
+
+padding:90px 8%;
+
+}
+
+#map iframe{
+
+box-shadow:0 20px 40px rgba(0,0,0,.35);
+
+}
