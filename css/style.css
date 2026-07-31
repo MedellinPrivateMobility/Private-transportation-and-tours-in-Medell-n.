@@ -219,3 +219,22 @@ padding:20px;
 text-align:center;
 color:#FFD700;
 }
+#coverage .card{
+text-align:center;
+}
+
+#map iframe{
+width:100%;
+border-radius:20px;
+box-shadow:0 15px 35px rgba(0,0,0,.4);
+}
+#why .card{
+text-align:center;
+padding:40px 30px;
+}
+
+#why h3{
+color:#FFD700;
+margin-bottom:15px;
+font-size:24px;
+}
