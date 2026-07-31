@@ -111,3 +111,15 @@ margin-bottom:20px;
 font-size:17px;
 line-height:1.7;
 }
+#pricing .card{
+text-align:center;
+}
+
+#pricing h3{
+color:#FFD700;
+margin-bottom:15px;
+}
+
+#pricing .btn{
+margin-top:20px;
+}
