@@ -259,3 +259,25 @@ text-align:left;
 color:#FFD700;
 margin-bottom:12px;
 }
+#fleet ul{
+list-style:none;
+padding:0;
+margin:20px 0;
+}
+
+#fleet li{
+padding:8px 0;
+border-bottom:1px solid rgba(255,255,255,.08);
+}
+
+#fleet img{
+height:240px;
+object-fit:cover;
+border-radius:15px;
+}
+
+#fleet .btn{
+display:block;
+margin-top:25px;
+text-align:center;
+}
