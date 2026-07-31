@@ -251,3 +251,11 @@ margin-bottom:10px;
 font-size:18px;
 margin:0;
 }
+#faq .card{
+text-align:left;
+}
+
+#faq h3{
+color:#FFD700;
+margin-bottom:12px;
+}
